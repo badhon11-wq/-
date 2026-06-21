@@ -26,7 +26,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "𝙼𝙸𝚁𝙹𝙰𝙵𝙾𝚁",
-  "prefix": "@",
+  "prefix": "M",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
